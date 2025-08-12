@@ -1,5 +1,3 @@
-# MATLAB
-
 # MATLAB – Giới thiệu & Ứng dụng
 
 ## 1. 5W1H – MATLAB là gì?
